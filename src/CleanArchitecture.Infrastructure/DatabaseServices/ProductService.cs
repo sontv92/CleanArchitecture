@@ -33,7 +33,9 @@ namespace CleanArchitecture.Infrastructure.DatabaseServices
                 ProductID = Guid.NewGuid(),
                 ProductTypeID = request.ProductTypeID,
                 ProductName = request.ProductName,
-                Price = request.Price,
+                ProductKey = request.ProductKey,
+                ProductImageUri = request.ProductImageUri,
+                RecordStatus = request.RecordStatus,
                 CreatedDate = DateTime.UtcNow,
                 UpdatedUser = Guid.NewGuid()
             });
