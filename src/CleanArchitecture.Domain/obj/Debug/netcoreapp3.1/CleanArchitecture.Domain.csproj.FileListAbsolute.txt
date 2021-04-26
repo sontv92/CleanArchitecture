@@ -1,0 +1,25 @@
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfo.cs
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.deps.json
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+F:\MSA_Course\1. Middleware_DI_CleanArchitecture\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+D:\Study\Unit 1\Sample\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.deps.json
+D:\Study\Unit 1\Sample\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+D:\Study\Unit 1\Sample\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+D:\Study\Unit 1\Sample\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.csprojAssemblyReference.cache
+D:\Study\Unit 1\Sample\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+D:\Study\Unit 1\Sample\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfo.cs
+D:\Study\Unit 1\Sample\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\Study\Unit 1\Sample\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+D:\Study\Unit 1\Sample\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+D:\Working\F88\Study\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.deps.json
+D:\Working\F88\Study\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+D:\Working\F88\Study\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+D:\Working\F88\Study\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.csprojAssemblyReference.cache
+D:\Working\F88\Study\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+D:\Working\F88\Study\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.AssemblyInfo.cs
+D:\Working\F88\Study\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\Working\F88\Study\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+D:\Working\F88\Study\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
